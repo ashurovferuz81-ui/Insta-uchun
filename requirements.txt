@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-instagrapi>=2.1.3
-requests
-pillow
